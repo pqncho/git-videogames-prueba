@@ -29,7 +29,16 @@ A platformer is a genre where the player controls a character jumping and climbi
 - Super Mario Bros
 
 ## Puzzle
+A puzzle is a type of mental challenge.
 
+Puzzle often refers to:
+
+Crossword puzzle, a word game
+Economic puzzle, where the implication of theory is inconsistent with observed economic data
+Jigsaw puzzle, a type of puzzle
+Puzzle video game, a video game genre
+[Wikipedia](https://en.wikipedia.org/wiki/Puzzle_(disambiguation))
+[Tetris](./puzzle/tetris.md)
 <!-- Agregar descripción del género y link a Wikipedia -->
 
 - Tetris
